@@ -18,14 +18,22 @@ Please delete options that are not relevant.
 Please describe the tests that you ran to verify your changes. Provide instructions so we can reproduce. Please also list any relevant details for your test configuration
 
 - [ ] Yes
+- [ ] Yes, but needs more extensive testing.
 - [ ] No
 
-
 # Dependencies:
+
+## Build Environment
+
+|Setting|&nbsp;&nbsp;&nbsp;&nbsp;Version|
+|:---|---:|
+|Target Framework||
+|Minimum C&num; Version||
+
 ## Packages
 
-|Package|Version|Minimum*|Maximum*|Exact*|
-|---|---|---|---|---|
+|Package|&nbsp;&nbsp;Version&nbsp;&nbsp;|Minimum*|Maximum*|&nbsp;&nbsp;&nbsp;&nbsp;Exact*&nbsp;&nbsp;&nbsp;&nbsp;|
+|:---|---:|:---:|:---:|:---:|
 ||| :blue_square: | :blue_square: | :blue_square: |
 
 
@@ -33,8 +41,8 @@ Please describe the tests that you ran to verify your changes. Provide instructi
 
 ## Libraries
 
-|Loibraries|Version|Minimum*|Maximum*|Exact*|
-|---|---|---|---|---|
+|Libraries|&nbsp;&nbsp;Version&nbsp;&nbsp;|Minimum*|Maximum*|&nbsp;&nbsp;&nbsp;&nbsp;Exact*&nbsp;&nbsp;&nbsp;&nbsp;|
+|:---|---:|:---:|:---:|:---:|
 ||| :blue_square: | :blue_square: | :blue_square: |
 
 
