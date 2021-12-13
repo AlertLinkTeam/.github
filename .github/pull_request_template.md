@@ -18,28 +18,28 @@
 
 > Please delete the Issue table if this PR is not associated with an issue.
 
-|Issue|
+| Issue |
 |:---|
-|&lbrack; [[Issue Title]] &rbrack;&lpar; h<span/>ttps://github.com/AlertLinkTeam/[[Repo Name]]/issues/[[Issue #]] &rpar;|
+| &lbrack; [[Issue Title]] &rbrack;&lpar; h<span/>ttps://github.com/AlertLinkTeam/[[Repo Name]]/issues/[[Issue #]] &rpar; |
 
 ## Type of change[&ast;](#-checkboxes)
 
 > Please delete options that are not relevant.
 
-:blue_square: Bug fix (non-breaking change which fixes an issue)<br/>
-:blue_square: New feature (non-breaking change which adds functionality)<br/>
-:blue_square: Breaking change (fix or feature that would cause existing functionality to not work as expected)<br/>
-:blue_square: This change requires a documentation update<br/>
+- [ ] Bug fix (non-breaking change which fixes an issue)<br/>
+- [ ] New feature (non-breaking change which adds functionality)<br/>
+- [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)<br/>
+- [ ] This change requires a documentation update<br/>
 
 <br />
 
 # Testing
 
-## How Has This Been Tested[&ast;](#-checkboxes)?
+## How Has This Been Tested?
 
-:blue_square: Yes<br/>
-:blue_square: Yes, but needs more extensive testing.<br/>
-:blue_square: No<br/>
+- [ ] Yes<br/>
+- [ ] Yes, but needs more extensive testing.<br/>
+- [ ] No<br/>
 
 ## Testing Details (if applicable)
 
@@ -51,48 +51,45 @@
 
 ## Build Environment
 
-|Setting|&nbsp;&nbsp;&nbsp;&nbsp;Version|
+| Setting | Version |
 |:---|---:|
-|Target Framework||
-|Minimum C&num; Version||
+| Target Framework |   |
+| Minimum C&num; Version |   |
 
 ## Packages
 
-|Package|&nbsp;&nbsp;Version&nbsp;&nbsp;|Minimum[&ast;](#-checkboxes)|Maximum[&ast;](#-checkboxes)|&nbsp;&nbsp;&nbsp;&nbsp;Exact[&ast;](#-checkboxes)&nbsp;&nbsp;&nbsp;&nbsp;|
-|:---|---:|:---:|:---:|:---:|
-||| :blue_square: | :blue_square: | :blue_square: |
+| Package | Minimum Version | Maximum Version |
+|:---|---:|---:|
+|   |   |   | 
 
 ## Libraries
 
-|Libraries|&nbsp;&nbsp;Version&nbsp;&nbsp;|Minimum[&ast;](#-checkboxes)|Maximum[&ast;](#-checkboxes)|&nbsp;&nbsp;&nbsp;&nbsp;Exact[&ast;](#-checkboxes)&nbsp;&nbsp;&nbsp;&nbsp;|
-|:---|---:|:---:|:---:|:---:|
-||| :blue_square: | :blue_square: | :blue_square: |
+| Libraries | Minimum Version | Maximum Version |
+|:---|---:|---:|
+|   |   |   |
 
 ## Incompatible Libraries[&ast;&ast;](#--incompatible-libraries)
 
-|Libraries|&nbsp;&nbsp;Version&nbsp;&nbsp;|Reason(optional)|
+| Libraries | Version | Reason(optional) |
 |:---|---:|:---|
-| | | |
+|   |   |   |
 
 <br />
 
 # Wrap-Up
 
-## Checklist[&ast;](#-checkboxes):
+## Checklist:
 
-:blue_square: My code follows the style guidelines of this project<br/>
-:blue_square: I have performed a self-review of my own code<br/>
-:blue_square: I have commented my code, particularly in hard-to-understand areas<br/>
-:blue_square: I have made corresponding changes to the documentation<br/>
-:blue_square: My changes generate no new warnings<br/>
-:blue_square: I have added tests that prove my fix is effective or that my feature works<br/>
-:blue_square: New and existing unit tests pass locally with my changes<br/>
-:blue_square: Any dependent changes have been merged and published in downstream modules<br/>
+- [ ] My code follows the style guidelines of this project<br/>
+- [ ] I have performed a self-review of my own code<br/>
+- [ ] I have commented my code, particularly in hard-to-understand areas<br/>
+- [ ] I have made corresponding changes to the documentation<br/>
+- [ ] My changes generate no new warnings<br/>
+- [ ] I have added tests that prove my fix is effective or that my feature works<br/>
+- [ ] New and existing unit tests pass locally with my changes<br/>
+- [ ] Any dependent changes have been merged and published in downstream modules<br/>
 
 <br /><br />
-
-##### &ast; Checkboxes
-> Please mark one. Use :blue_square: for unchecked and :ballot_box_with_check: for checked.
 
 ##### &ast; &ast; Incompatible Libraries
 > Incompatible Libraries are libraries that would end up causing a problem. For example, adding a dependency on a library that has the current project as a dependency would cause a `Circular Dependency` issue.
