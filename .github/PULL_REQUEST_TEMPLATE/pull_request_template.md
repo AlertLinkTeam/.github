@@ -22,7 +22,7 @@
 |:---|
 | &lbrack; [[Issue Title]] &rbrack;&lpar; h<span/>ttps://github.com/AlertLinkTeam/[[Repo Name]]/issues/[[Issue #]] &rpar; |
 
-## Type of change[&ast;](#-checkboxes)
+## Type of change
 
 > Please delete options that are not relevant.
 
