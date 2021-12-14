@@ -9,16 +9,18 @@
 
 # General
 
-## Description
+## Repository Description
 
-> Please include a brief description of the purpose of this PR.
+> Please include a brief description of the purpose of this repository.
 
+## Pull Request Description
 
+> Please include a brief description of the purpose of this Pull Request.
 ## Issue(s)
 
 > Please delete the Issue table if this PR is not associated with an issue.
 
-| Issue |
+| Related Issue(s) |
 |:---|
 | &lbrack; [[Issue Title]] &rbrack;&lpar; h<span/>ttps://github.com/AlertLinkTeam/[[Repo Name]]/issues/[[Issue #]] &rpar; |
 
