@@ -19,7 +19,7 @@
 
 ## Issue(s)
 
-> Please delete the Issue table if this PR is not associated with an issue.
+> Please ignore the Issue table if this PR is not associated with [an] issue(s).
 
 | Related Issue(s) |
 |:---|
@@ -27,7 +27,7 @@
 
 ## Type of change
 
-> Please delete options that are not relevant.
+> Please ignore options that are not relevant.
 
 - [ ] Bug fix (non-breaking change which fixes an issue)<br/>
 - [ ] New feature (non-breaking change which adds functionality)<br/>
@@ -63,19 +63,16 @@
 
 | Package | Minimum Version | Maximum Version |
 |:---|---:|---:|
-|   |   |   | 
 
 ## Libraries
 
 | Libraries | Minimum Version | Maximum Version |
 |:---|---:|---:|
-|   |   |   |
 
 ## Incompatible Libraries[&ast;&ast;](#--incompatible-libraries)
 
 | Libraries | Version | Reason(optional) |
 |:---|---:|:---|
-|   |   |   |
 
 <br />
 
