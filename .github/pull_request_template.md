@@ -37,7 +37,7 @@
 
 # Testing
 
-## How Has This Been Tested?
+## Has This Been Tested?
 
 - [ ] Yes<br/>
 - [ ] Yes, but needs more extensive testing.<br/>
@@ -53,25 +53,32 @@
 
 ## Build Environment
 
-| Setting | Version |
+| Setting | Minimum Version | Maximum Version |
 |:---|---:|
-| Target Framework |   |
-| Minimum C&num; Version |   |
+| Target Framework |   |   |
+| Language(s) |   |   |
 
 ## Packages
 
 | Package | Minimum Version | Maximum Version |
 |:---|---:|---:|
 
+## Incompatible Packages[&ast;](#--incompatible-packages)
+
+| Package | Minimum Version | Maximum Version | Reason(optional) |
+|:---|---:|---:|:---|
+
 ## Libraries
 
-| Libraries | Minimum Version | Maximum Version |
+> While not required, it is helpful if the Library name is a link to the library's repository, and the library's minimum and/or maximum version is a link to the specific release or release candidate's tag. The text of the link to the tag should probably be the release/release candidate's title, while the href should refer to the tag. This is because the tag will always need to have a v in it, but the title should reserve including the v in the title for when a release candidate has been finalized as a release. Seeing a v in the text of the version link will indicate that the library is a release and not a release candidate.
+
+| Library | Minimum Version | Maximum Version |
 |:---|---:|---:|
 
 ## Incompatible Libraries[&ast;&ast;](#--incompatible-libraries)
 
-| Libraries | Version | Reason(optional) |
-|:---|---:|:---|
+| Library | Minimum Version | Maximum Version | Reason(optional) |
+|:---|---:|---:|:---|
 
 <br />
 
@@ -89,6 +96,9 @@
 - [ ] Any dependent changes have been merged and published in downstream modules<br/>
 
 <br /><br />
+
+##### &ast; Incompatible Packages
+> Incompatible Packages are packages that would end up causing a problem. 
 
 ##### &ast; &ast; Incompatible Libraries
 > Incompatible Libraries are libraries that would end up causing a problem. For example, adding a dependency on a library that has the current project as a dependency would cause a `Circular Dependency` issue.
