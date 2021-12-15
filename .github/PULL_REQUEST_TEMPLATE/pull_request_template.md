@@ -7,15 +7,79 @@
 
 <br />
 
+# Table of Contents
+
+<h3>
+<details> 
+<summary><a href="#General">General</a></summary>
+
+> ||
+> |---|
+> | [Repository Description](#repository-description) |
+> | [Pull Request Description](#pull-request-description) |
+> | [Issue(s)](#issues) |
+> | [Type of Change](#type-of-change) |
+</details>
+</h3>
+
+<h3>
+<details> 
+<summary><a href="#Testing">Testing</a></summary>
+
+> ||
+> |---|
+> | [Has This Been Tested?](#has-this-been-tested) |
+> | [Testing Details (if applicable)](#testing-details-if-applicable) |
+</details>
+</h3>
+
+<h3>
+<details> 
+<summary><a href="#Dependencies">Dependencies</a></summary>
+
+> ||
+> |---|
+> | [Build Environment](#build-environment) |
+> | [Packages](#packages) |
+> | [Incompatible Packages](#incompatible-packages) |
+> | [Libraries](#libraries) |
+> | [Incompatible Libraries](#incompatible-libraries) |
+</details>
+</h3>
+
+<h3>
+<details> 
+<summary><a href="#Wrap-Up">Wrap-Up</a></summary>
+
+> ||
+> |---|
+> | [Checklist](#checklist) |</details>
+</h3>
+
+<h3>
+<details> 
+<summary><a href="#Footnotes">Footnotes</a></summary>
+
+> ||
+> |---|
+> | [&ast; Incompatible Packages](#-incompatible-packages) |
+> | [&ast; &ast; Incompatible Libraries](#--incompatible-libraries) |
+</details>
+</h3>
+
 # General
 
 ## Repository Description
 
 > Please include a brief description of the purpose of this repository.
 
+
+
 ## Pull Request Description
 
 > Please include a brief description of the purpose of this Pull Request.
+
+
 
 ## Issue(s)
 
@@ -25,7 +89,7 @@
 |:---|
 | &lbrack; [[Issue Title]] &rbrack;&lpar; h<span/>ttps://github.com/AlertLinkTeam/[[Repo Name]]/issues/[[Issue #]] &rpar; |
 
-## Type of change
+## Type of Change
 
 > Please ignore options that are not relevant.
 
@@ -38,7 +102,7 @@
 
 # Testing
 
-## How Has This Been Tested?
+## Has This Been Tested?
 
 - [ ] Yes<br/>
 - [ ] Yes, but needs more extensive testing.<br/>
@@ -54,25 +118,32 @@
 
 ## Build Environment
 
-| Setting | Version |
-|:---|---:|
-| Target Framework |   |
-| Minimum C&num; Version |   |
+| Setting | Minimum Version | Maximum Version |
+|:---|---:|---:|
+| Target Framework |   |   |
+| Language(s) |   |   |
 
 ## Packages
 
 | Package | Minimum Version | Maximum Version |
 |:---|---:|---:|
 
+## Incompatible Packages[&ast;](#-incompatible-packages)
+
+| Package | Minimum Version | Maximum Version | Reason(optional) |
+|:---|---:|---:|:---|
+
 ## Libraries
 
-| Libraries | Minimum Version | Maximum Version |
+> While not required, it is helpful if the Library name is a link to the library's repository, and the library's minimum and/or maximum version is a link to the specific release or release candidate's tag. The text of the link to the tag should probably be the release/release candidate's title, while the href should refer to the tag. This is because the tag will always need to have a v in it, but the title should reserve including the v in the title for when a release candidate has been finalized as a release. Seeing a v in the text of the version link will indicate that the library is a release and not a release candidate.
+
+| Library | Minimum Version | Maximum Version |
 |:---|---:|---:|
 
 ## Incompatible Libraries[&ast;&ast;](#--incompatible-libraries)
 
-| Libraries | Version | Reason(optional) |
-|:---|---:|:---|
+| Library | Minimum Version | Maximum Version | Reason(optional) |
+|:---|---:|---:|:---|
 
 <br />
 
@@ -90,6 +161,11 @@
 - [ ] Any dependent changes have been merged and published in downstream modules<br/>
 
 <br /><br />
+
+# Footnotes
+
+#####  &ast; Incompatible Packages
+> Incompatible Packages are packages that would end up causing a problem. 
 
 ##### &ast; &ast; Incompatible Libraries
 > Incompatible Libraries are libraries that would end up causing a problem. For example, adding a dependency on a library that has the current project as a dependency would cause a `Circular Dependency` issue.
