@@ -28,8 +28,8 @@
 
 > ||
 > |---|
-> | [Has This Been Tested?](#has-this-been-tested-) |
-> | [Testing Details (if applicable)](#testing-details--if-applicable-) |
+> | [Has This Been Tested?](#has-this-been-tested) |
+> | [Testing Details (if applicable)](#testing-details-if-applicable) |
 </details>
 </h3>
 
