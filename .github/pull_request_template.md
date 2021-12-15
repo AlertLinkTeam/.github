@@ -7,15 +7,80 @@
 
 <br />
 
+# Table of Contents
+
+<h2>
+<details> 
+<summary><a href="#General">General</a></summary>
+
+> ||
+> |---|
+> | [Repository Description](#repository-description) |
+> | [Pull Request Description](#pull-request-description) |
+> | [Issue(s)](#issue-s-) |
+> | [Type of Change](#type-of-change) |
+</details>
+</h2>
+
+<h2>
+<details> 
+<summary><a href="#Testing">Testing</a></summary>
+
+> ||
+> |---|
+> | [Has This Been Tested?](#has-this-been-tested-) |
+> | [Testing Details (if applicable)](#testing-details--if-applicable-) |
+</details>
+</h2>
+
+<h2>
+<details> 
+<summary><a href="#Dependencies">Dependencies</a></summary>
+
+> ||
+> |---|
+> | [Build Environment](#build-environment) |
+> | [Packages](#packages) |
+> | [Incompatible Packages](#incompatible-packages) |
+> | [Libraries](#libraries) |
+> | [Incompatible Libraries](#incompatible-libraries) |
+</details>
+</h2>
+
+<h2>
+<details> 
+<summary><a href="#Wrap-Up">Wrap-Up</a></summary>
+
+> ||
+> |---|
+> | [Checklist](#checklist) |</details>
+</h2>
+
+<h2>
+<details> 
+<summary><a href="#Footnotes">Footnotes</a></summary>
+
+> ||
+> |---|
+> | [&ast; Incompatible Packages](#-incompatible-packages) |
+> | [&ast; &ast; Incompatible Libraries](#--incompatible-libraries) |
+</details>
+</h2>
+
 # General
 
 ## Repository Description
 
 > Please include a brief description of the purpose of this repository.
 
+
+
 ## Pull Request Description
 
 > Please include a brief description of the purpose of this Pull Request.
+
+
+
 ## Issue(s)
 
 > Please ignore the Issue table if this PR is not associated with [an] issue(s).
@@ -24,7 +89,7 @@
 |:---|
 | &lbrack; [[Issue Title]] &rbrack;&lpar; h<span/>ttps://github.com/AlertLinkTeam/[[Repo Name]]/issues/[[Issue #]] &rpar; |
 
-## Type of change
+## Type of Change
 
 > Please ignore options that are not relevant.
 
@@ -96,6 +161,8 @@
 - [ ] Any dependent changes have been merged and published in downstream modules<br/>
 
 <br /><br />
+
+# Footnotes
 
 #####  &ast; Incompatible Packages
 > Incompatible Packages are packages that would end up causing a problem. 
