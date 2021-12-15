@@ -9,7 +9,7 @@
 
 # Table of Contents
 
-<h2>
+<h3>
 <details> 
 <summary><a href="#General">General</a></summary>
 
@@ -17,12 +17,12 @@
 > |---|
 > | [Repository Description](#repository-description) |
 > | [Pull Request Description](#pull-request-description) |
-> | [Issue(s)](#issue-s-) |
+> | [Issue(s)](#issues) |
 > | [Type of Change](#type-of-change) |
 </details>
-</h2>
+</h3>
 
-<h2>
+<h3>
 <details> 
 <summary><a href="#Testing">Testing</a></summary>
 
@@ -31,9 +31,9 @@
 > | [Has This Been Tested?](#has-this-been-tested-) |
 > | [Testing Details (if applicable)](#testing-details--if-applicable-) |
 </details>
-</h2>
+</h3>
 
-<h2>
+<h3>
 <details> 
 <summary><a href="#Dependencies">Dependencies</a></summary>
 
@@ -45,18 +45,18 @@
 > | [Libraries](#libraries) |
 > | [Incompatible Libraries](#incompatible-libraries) |
 </details>
-</h2>
+</h3>
 
-<h2>
+<h3>
 <details> 
 <summary><a href="#Wrap-Up">Wrap-Up</a></summary>
 
 > ||
 > |---|
 > | [Checklist](#checklist) |</details>
-</h2>
+</h3>
 
-<h2>
+<h3>
 <details> 
 <summary><a href="#Footnotes">Footnotes</a></summary>
 
@@ -65,7 +65,7 @@
 > | [&ast; Incompatible Packages](#-incompatible-packages) |
 > | [&ast; &ast; Incompatible Libraries](#--incompatible-libraries) |
 </details>
-</h2>
+</h3>
 
 # General
 
