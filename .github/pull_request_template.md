@@ -63,7 +63,7 @@
 | Package | Minimum Version | Maximum Version |
 |:---|---:|---:|
 
-## Incompatible Packages[&ast;](#--incompatible-packages)
+## Incompatible Packages[&ast;](#-incompatible-packages)
 
 | Package | Minimum Version | Maximum Version | Reason(optional) |
 |:---|---:|---:|:---|
@@ -97,7 +97,7 @@
 
 <br /><br />
 
-##### Incompatible Packages
+#####  &ast; Incompatible Packages
 > Incompatible Packages are packages that would end up causing a problem. 
 
 ##### &ast; &ast; Incompatible Libraries
