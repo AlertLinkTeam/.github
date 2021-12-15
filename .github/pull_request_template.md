@@ -97,7 +97,7 @@
 
 <br /><br />
 
-##### &ast; Incompatible Packages
+##### Incompatible Packages
 > Incompatible Packages are packages that would end up causing a problem. 
 
 ##### &ast; &ast; Incompatible Libraries
