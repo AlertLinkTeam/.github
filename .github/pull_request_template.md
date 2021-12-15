@@ -54,7 +54,7 @@
 ## Build Environment
 
 | Setting | Minimum Version | Maximum Version |
-|:---|---:|
+|:---|---:|---:|
 | Target Framework |   |   |
 | Language(s) |   |   |
 
